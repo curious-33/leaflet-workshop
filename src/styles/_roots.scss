@@ -1,0 +1,8 @@
+:root {
+  /* light theme colors */
+  @each $key, $value in $colors {
+    --#{""+$key}: #{$value};
+  }
+
+  --font-family: "Manrope", sans-serif;
+}

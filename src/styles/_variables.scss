@@ -1,0 +1,28 @@
+$colors: (
+  primary: #002084,
+  background: #f4f7fe,
+  light-blue: #2b3674,
+  blue: #002084,
+  cyan: #47bdff,
+  cyan-light: #e9f8ff,
+  success: #1ecd01,
+  warning: #e8c512,
+  danger: #e84a4a,
+  red: #ff7575,
+  orange: #ffb547,
+  green: #6bd398,
+  white: #ffffff,
+  black: #0d111a,
+) !default;
+
+$primary-font-family: "Manrope", sans-serif !default;
+
+$opacity-1: rgba(255, 255, 255, 0.1) !default;
+$opacity-2: rgba(255, 255, 255, 0.2) !default;
+$opacity-3: rgba(255, 255, 255, 0.3) !default;
+$opacity-4: rgba(255, 255, 255, 0.4) !default;
+$opacity-5: rgba(255, 255, 255, 0.5) !default;
+$opacity-6: rgba(255, 255, 255, 0.6) !default;
+$opacity-7: rgba(255, 255, 255, 0.7) !default;
+$opacity-8: rgba(255, 255, 255, 0.8) !default;
+$opacity-9: rgba(255, 255, 255, 0.9) !default;
